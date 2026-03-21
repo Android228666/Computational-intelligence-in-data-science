@@ -22,7 +22,7 @@ $$\pi \approx \frac{2 \cdot L \cdot N}{D \cdot hits}$$
 
 Here is the output of the simulation for $N=500$ and the statistical convergence analysis:
 
-![Simulation Results](Figure_1_en.jpg)
+![Simulation Results](Figure_1_en.png)
 
 > *Note: If you just uploaded the image, make sure the filename in the code above matches your file exactly.*
 
