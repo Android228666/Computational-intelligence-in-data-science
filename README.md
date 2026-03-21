@@ -22,8 +22,6 @@ $$\pi \approx \frac{2 \cdot L \cdot N}{D \cdot hits}$$
 
 Open image in "Monte Carlo project" named "Simulation results"
 
-> *Note: If you just uploaded the image, make sure the filename in the code above matches your file exactly.*
-
 ## 🛠️ Requirements
 To run this script, you need Python 3 and the following libraries:
 ```bash
