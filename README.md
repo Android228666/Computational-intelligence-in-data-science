@@ -20,9 +20,7 @@ $$\pi \approx \frac{2 \cdot L \cdot N}{D \cdot hits}$$
 
 ## 📊 Results Visualization
 
-Here is the output of the simulation for $N=500$ and the statistical convergence analysis:
-
-![Simulation Results](Figure_1_en.png)
+Open image in "Monte Carlo project" named "Simulation results"
 
 > *Note: If you just uploaded the image, make sure the filename in the code above matches your file exactly.*
 
